@@ -72,12 +72,11 @@ body {
 
 .header-block,
 .title {
-    font-size: 24px;
+    font-size: 2.5em;
     font-weight: bold;
     margin-bottom: 10px;
 }
 
-.category-text,
 .description-text,
 .recommendation-text,
 .thank-you-text {
@@ -85,10 +84,17 @@ body {
     margin-bottom: 10px;
 }
 
+.display-4 {
+    font-size: 3em;
+    font-weight: bolder;
+    margin-bottom: 10px;
+}
+
 .category-text {
     font-family: 'Courier New', Courier, monospace;
-    font-size: 2em;
+    font-size: 1.5em;
     font-style: italic;
+    margin: 10px;
 }
 
 
